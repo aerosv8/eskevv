@@ -2,7 +2,7 @@
 
 I like to work with graphics, web frameworks, and low level APIs.
 
-🔭 I’m currently working on: 🧑‍🔬3D Physics
+🔭 I’m currently working on: 🧑‍🔬3D physics simulations
 
 🌱 I’m currently learning: crafting interpreters and backend frameworks with Rust
 
