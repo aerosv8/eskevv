@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Keven, a programmer and tools developer!  
+### Hi there 👋 I'm Kev, a programmer and tools developer!  
 
 I like to work with graphics, web frameworks, and low level APIs.
 
