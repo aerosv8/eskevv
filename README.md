@@ -6,7 +6,7 @@ I like to work with graphics, web frameworks, and low level APIs.
 
 🌱 I’m currently learning: crafting interpreters and backend frameworks with Rust
 
-💬 Ask me about: Rust, OpenGL, React
+💬 Ask me about: OpenGL, React
 
 📫 How to reach me: hkeven89@gmail.com
 
